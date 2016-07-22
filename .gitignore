@@ -1,0 +1,5 @@
+# build folder
+.git
+build
+node_modules
+App/build/app.js
